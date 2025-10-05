@@ -14,7 +14,7 @@
 
 ## Setup
 
-1. Go to [bit.ly/andy](https://bit.ly/andy)
+1. Go to [bit.ly/andy-emu](https://bit.ly/andy-emu)
 2. Click "Install" and explore the world of Android! (Shortcuts App required on Device)
 
 ---
