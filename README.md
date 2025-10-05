@@ -1,10 +1,10 @@
-# AndroidX
+# AndroidY
 
 <p align="center">
-  <img src="https://github.com/Noahscratch493/androidx/blob/main/androidX.png?raw=true" alt="AndroidX Logo" width="120">
+  <img src="https://github.com/Noahscratch493/androidy/blob/main/androidY.png?raw=true" alt="AndroidY Logo" width="120">
 </p>
 
-**AndroidX** is an Android emulator built for iOS. Explore the other vast world without hacking or jailbreaking!  
+**AndroidY** is an Android emulator built for iOS. Explore the other vast world without hacking or jailbreaking!  
 
 ## Features
 
@@ -14,7 +14,7 @@
 
 ## Setup
 
-1. Go to [bit.ly/andx](https://bit.ly/andx)
+1. Go to [bit.ly/andy](https://bit.ly/andy)
 2. Click "Install" and explore the world of Android! (Shortcuts App required on Device)
 
 ---
